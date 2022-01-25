@@ -1,24 +1,4 @@
-# README
+# Market place API
+Это простое API приложение, сделанное по книге Rousseau Alexandre -- Api on Rails 6
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Цель: лучше разобраться в создании API приложений, научиться тестировать (тут используется `minitest`), версионировать, сериализировать и тд.
